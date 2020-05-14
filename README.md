@@ -1,4 +1,4 @@
-# stock_strategy_learner
+# Stock Strategy Learner
 
 Machine learning techniques are used to create stock trading strategies. For comparison, manual trading strategies based on human intuition are also used. The cash value of the same portfolio that underwent two different strategies are compared. 
 
